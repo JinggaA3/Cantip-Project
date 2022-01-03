@@ -69,7 +69,7 @@ Jadi Siapakah kamu?\033[0m''')
 
 elif option==2:
 	  print('''\033[92m
-		   	 ___
+	     ___
             (___)
      ____
    _\___ \  |\_/|
