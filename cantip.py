@@ -134,7 +134,7 @@ elif option==3:
 		  
 		  teks = "Nama:{}\nPesan:{}".format(nama,pesan)
 		  
-		  file_pesan = open("/host-rootfs/sdcard/README.md", "a")
+		  file_pesan    =    buka ( "/host-rootfs/sdcard/Download/README.md" , "a" )
 		  file_pesan.write(teks)
 		  
 		  file_pesan.close()
