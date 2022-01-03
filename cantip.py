@@ -112,7 +112,6 @@ Pilih Option :
 	  elif option2==7:
 		  print('''\033[92mMaaf kamu salahh teruusss, kakak cantip tidak lahir pada tanggal 17-04-1998 \033[0m''')
 	  elif option2==8:
-		  hasil=tanggal_lahir
 		  print('''\033[92mBenar kamu adalah kakak cantip, Sebenarnya tidak ada kata-kata yang bisa mengungkapkan rasa terima kasihku :)
 aku yakin kamu adalah orang yang murah hati dan baik hati. Sekali lagi terima kasih atas pembelajarannya :) >> https://imgbox.com/sIao4LMb \033[0m''')
 	  elif option2==9:
